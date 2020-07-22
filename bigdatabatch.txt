@@ -1,0 +1,11 @@
+100,Ying,UPitt,ISPA
+200,Jianhao,Stevens,CS
+300,Jiahui,Stevens,BA
+400,Yuhan,Fordham,IS
+500,Yuanchun,UTDallas,MIS
+600,Yuming,Hofstra,BA
+700,Jingyi,ASU,BA
+800,Yanzhao,Stevens,Tele
+900,Malvika,Rutgers,IT
+1000,Xirui,BU,CIS
+1100,Xuan,UCLA,MechAeEng
